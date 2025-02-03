@@ -25,7 +25,7 @@ R_2 Score = 53% (indicating CAPE is able to explain the returns to some extent)
 ![db98bde8-73c5-48c2-bfcf-857006fa17bd](https://github.com/user-attachments/assets/713527af-b0b2-4302-b770-23d6615dec81)
 <br>
 For calculating returns following equation was used :
- r_{t+1} = \%\Delta PE_{t+1} + \%\Delta E_{t+1} + DP_{t+1} 
+ r_{t+1} = \%\Delta PE<sub>t+1</sub> + \%\Delta E<sub>t+1</sub> + DP<sub>t+1</sub>
 
 | Model Name            | RMSE Score |
 |----------------------|------------|
